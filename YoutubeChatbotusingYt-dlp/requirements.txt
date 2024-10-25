@@ -1,0 +1,5 @@
+streamlit==1.37.1
+openai-whisper==20240930
+python-dotenv==1.0.1
+streamlit-chat==0.1.1
+urllib3==2.2.1
