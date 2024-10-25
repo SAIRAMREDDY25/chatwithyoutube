@@ -23,8 +23,8 @@ This project is a chatbot built using Streamlit, AWS services (Transcribe, Bedro
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/SAIRAMREDDY25/chatwithyoutubeurls.git
-cd chatwithyoutubeurls
+git clone https://github.com/SAIRAMREDDY25/chatwithyoutube.git
+cd chatwithyoutube
 ```
 
 ### Step 2: Install Dependencies
@@ -47,7 +47,7 @@ aws_region=YOUR_AWS_REGION
 ### Step 4: Run the Application
 
 ```bash
-streamlit run app.py
+streamlit run chatwithyoutube.py
 ```
 
 ## How It Works
