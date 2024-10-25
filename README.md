@@ -1,7 +1,7 @@
 ## ChatWithYouTubeURLs
 
 ## YouTube Video Chatbot (AWS Powered)
-
+Chat with any Youtube video.
 This project is a chatbot built using Streamlit, AWS services (Transcribe, Bedrock), and the YouTube Data API. It allows users to input a YouTube video URL, extract basic information about the video, and interact with it by asking questions related to the video transcript. The chatbot provides responses powered by AWS Bedrock (Mistral model).
 
 ## Features
